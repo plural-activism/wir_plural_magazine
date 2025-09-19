@@ -1,0 +1,26 @@
+services:
+  server:
+    image: klakegg/hugo:0.111.1
+    container_name: zine.plural.ziegel.me
+    environment:
+      HUGO_ENV: production
+      HUGO_BASEURL: https://zine.plural.ziegel.me
+    command: server -b "https://zine.plural.ziegel.me" --disableFastRender -p "443"
+    restart: always
+    networks:
+      - web
+    volumes:
+      - .:/src
+    ports:
+      - 1313:443
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.ziegel-me.rule=Host(`zine.plural.ziegel.me`)"
+      - "traefik.http.routers.ziegel-me.entrypoints=https"
+      - traefik.http.routers.ziegel-me.tls=true
+      - "traefik.http.routers.ziegel-me.tls.certresolver=letencrypt"
+      - "traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto = https"
+
+networks:
+  web:
+    external: true
