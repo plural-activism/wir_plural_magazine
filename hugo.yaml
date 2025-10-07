@@ -14,12 +14,6 @@ outputs:
 
 enableRobotsTXT: true
 
-#services:
-  #googleAnalytics:
-    #id: G-MEASUREMENT_ID
-  #disqus:
-    #shortname: your-disqus-shortname
-
 pagination:
   pagerSize: 3
 
@@ -31,9 +25,9 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Ausgaben
-      title: Bisherige Ausgaben
-      url: /ausgaben
+      name: "Ausgaben"
+      title: "Bisherige Ausgaben"
+      url: /blog
       weight: 1
     - identifier: gallery
       name: Gallerie
