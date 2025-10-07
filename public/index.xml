@@ -15,5 +15,12 @@
       <guid>https://zine.plural.fyi/blog/ausgabe1/</guid>
       <description>Die erste Ausgabe unseres zines. Yippee!</description>
     </item>
+    <item>
+      <title>Gallerie</title>
+      <link>https://zine.plural.fyi/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>https://zine.plural.fyi/gallery/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
