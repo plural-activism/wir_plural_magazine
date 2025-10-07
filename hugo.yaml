@@ -34,24 +34,6 @@ Menus:
       title: Kunst
       url: /gallery
       weight: 2
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
-    # - identifier: dropdown2
-    #   title: example dropdown 2
-    #   name: example 2
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 2
-
 params:
   title: "Wir - ein plurales Magazin"
   description: Wir ist ein plurales Magazin von diversen Systemen.
@@ -75,8 +57,6 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
-    # defaultTheme: "light" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -130,7 +110,7 @@ params:
     intro: ""
     title: "Wir"
     subtitle: "Ein plurales Magazin"
-    content: "Coming soon..."
+    content: "Jetzt neu: Ausgabe 1 - Themen rund um Innenwelten, Außenwelten und mehr. Schau vorbei!"
     image: /images/wir-magazin.png
     bottomImage:
       enable: true
