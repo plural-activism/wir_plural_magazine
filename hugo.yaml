@@ -194,7 +194,7 @@ params:
 
   footer:
     recentPosts:
-      path: "ausgaben"
+      path: "blog"
       count: 3
       title: "Aktuelle Posts"
       enable: true
