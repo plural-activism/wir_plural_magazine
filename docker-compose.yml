@@ -15,7 +15,7 @@ services:
       - 1310:443
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.ziegel-me.rule=Host(`zine.plural.ziegel.me`)"
+      - "traefik.http.routers.ziegel-me.rule=Host(`zine.plural.fyi`)"
       - "traefik.http.routers.ziegel-me.entrypoints=https"
       - traefik.http.routers.ziegel-me.tls=true
       - "traefik.http.routers.ziegel-me.tls.certresolver=letencrypt"

@@ -1,4 +1,4 @@
-baseURL: "https://zine.plural.ziegel.me"
+baseURL: "https://zine.plural.fyi"
 languageCode: "de-de"
 title: "Wir Magazin"
 theme: hugo-profile
@@ -33,10 +33,10 @@ Menus:
     - identifier: blog
       name: Ausgaben
       title: Bisherige Ausgaben
-      url: /blogs
+      url: /ausgaben
       weight: 1
     - identifier: gallery
-      name: Gallery
+      name: Gallerie
       title: Kunst
       url: /gallery
       weight: 2
@@ -125,9 +125,9 @@ params:
     menus:
       disableAbout: false
       disableExperience: false
-      disableEducation: false
-      disableProjects: false
-      disableAchievements: false
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -143,7 +143,7 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Contact"
+      name: "Kontakt"
       url: "#"
       download: true
       newPage: false
@@ -160,7 +160,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Us"
+    title: "Über uns"
     image: "/images/me.png"
     content: |-
       Wir ist ein plurales Magazin von diversen Systemen. Wir wollen Raum geben für unterschiedliche Perspektiven und Geschichten. Unser Ziel ist es, Vielfalt zu feiern und einen Ort zu schaffen, an dem sich alle willkommen fühlen.
@@ -170,13 +170,18 @@ params:
       enable: true
       title: "Bisherige Autoren"
       items:
-        - "X"
-        - "Y"
-        - "Z"
-        - "A"
-        - "B"
-        - "C"
-        - "Chefredaktion: Hildie"
+        - "The Bunch"
+        - "zeta"
+        - "Nico"
+        - "Oaks"
+        - "Miriam"
+        - "Aurora"
+        - "Starside"
+        - "Leaves"
+        - "moth"
+        - "Jemar"
+        - "Warlie"
+        - "**Chefredaktion**: Hildie"
 
 
   #Contact
@@ -195,9 +200,9 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "ausgaben"
       count: 3
-      title: Recent Posts
+      title: "Aktuelle Posts"
       enable: true
       disableFeaturedImage: false
 #    socialNetworks:
@@ -231,6 +236,6 @@ params:
     emailText: "Check out this site"
 
   datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+    article: "2. Jan 2006"
+    articleList: "2. Jan, 2006"
+    articleRecent: "2. Jan 2006"
