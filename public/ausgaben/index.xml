@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ausgabens on Wir Magazin</title>
+    <link>http://localhost:1313/ausgaben/</link>
+    <description>Recent content in Ausgabens on Wir Magazin</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ausgaben/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ausgabe 1</title>
+      <link>http://localhost:1313/ausgaben/ausgabe1/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/ausgaben/ausgabe1/</guid>
+      <description>Die erste Ausgabe unseres zines. Yippee!</description>
+    </item>
+  </channel>
+</rss>
