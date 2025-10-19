@@ -14,7 +14,7 @@ image: "/images/wir-magazin.png"
 Willkommen zur ersten Ausgabe des Wir Magazins!  
 Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschichten.
 
-[Download Link]()
+[Download Link](https://media.soycaf.net/books/Plural-Zine/zine_onlineversion.pdf)
 
 Das zine kann in begrenzter Zahl an folgenden Orten gefunden werden:
 
