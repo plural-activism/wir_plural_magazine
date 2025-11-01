@@ -15,10 +15,10 @@ services:
       - 1310:443
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.ziegel-me.rule=Host(`zine.plural.fyi`)"
-      - "traefik.http.routers.ziegel-me.entrypoints=https"
-      - traefik.http.routers.ziegel-me.tls=true
-      - "traefik.http.routers.ziegel-me.tls.certresolver=letencrypt"
+      - "traefik.http.routers.plural-zine.rule=Host(`zine.plural.fyi`)"
+      - "traefik.http.routers.plural-zine.entrypoints=https"
+      - "traefik.http.routers.plural-zine.tls=true"
+      - "traefik.http.routers.plural-zine.tls.certresolver=letencrypt"
       - "traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto = https"
 
 networks:
