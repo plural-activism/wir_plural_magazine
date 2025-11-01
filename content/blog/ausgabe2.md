@@ -22,3 +22,5 @@ Das Kleingedruckte:
 - Bitte teilt uns einen Namen mit, unter dem ihr genannt werden wollt. Ansonsten veröffentlichen wir euren Beitrag anonym.
 
 **Unsere E-Mail lautet: <wir-magazin@mail.de>**
+
+---
