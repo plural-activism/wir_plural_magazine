@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Wir Magazin</title>
-    <link>http://localhost:1313/categories/blog/</link>
+    <link>https://zine.plural.fyi/categories/blog/</link>
     <description>Recent content in Blog on Wir Magazin</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 28 Oct 2025 23:38:55 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zine.plural.fyi/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/blog/ausgabe2/</link>
+      <title>Ausgabe 2 - Call to action</title>
+      <link>https://zine.plural.fyi/blog/ausgabe2/</link>
       <pubDate>Tue, 28 Oct 2025 23:38:55 +0100</pubDate>
-      <guid>http://localhost:1313/blog/ausgabe2/</guid>
+      <guid>https://zine.plural.fyi/blog/ausgabe2/</guid>
       <description>Wird es eine zweite Ausgabe geben?? 👀</description>
     </item>
     <item>
       <title>Ausgabe 1</title>
-      <link>http://localhost:1313/blog/ausgabe1/</link>
+      <link>https://zine.plural.fyi/blog/ausgabe1/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/ausgabe1/</guid>
+      <guid>https://zine.plural.fyi/blog/ausgabe1/</guid>
       <description>Die erste Ausgabe unseres zines. Yippee!</description>
     </item>
   </channel>
