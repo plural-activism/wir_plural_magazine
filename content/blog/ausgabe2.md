@@ -1,4 +1,5 @@
 ---
+title: "Ausgabe 2 - Call to action"
 date: '2025-10-28T23:38:55+01:00'
 draft: false
 author: "zeta"
