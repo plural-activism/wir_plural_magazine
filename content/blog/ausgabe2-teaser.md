@@ -3,6 +3,7 @@ title: "Ausgabe 2 - Call to action"
 date: 2025-10-28T23:38:55+01:00
 draft: false
 author: "zeta"
+toc: false
 tags: ["Magazin", "Ausgabe2", "Einsendungen", "Dein-Beitrag"]
 categories: ["Blog"]
 summary: "Wird es eine zweite Ausgabe geben?? 👀 "

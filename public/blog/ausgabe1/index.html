@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><meta charset="UTF-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
-<link rel="icon" href=/fav.png type="image/gif">
+<link rel="icon" href="/fav.png" type="image/gif">
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,7 +28,7 @@
 
 
 
-<meta property="og:url" content="https://zine.plural.fyi/blog/ausgabe1/">
+<meta property="og:url" content="http://localhost:1313/blog/ausgabe1/">
   <meta property="og:site_name" content="Wir Magazin">
   <meta property="og:title" content="Ausgabe 1">
   <meta property="og:description" content="Die erste Ausgabe unseres zines. Yippee!">
@@ -46,7 +46,11 @@
   <meta name="twitter:description" content="Die erste Ausgabe unseres zines. Yippee!">
 
 
+
+
+
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
+<link rel="stylesheet" href="/css/language-switcher.css" media="all">
 <link rel="stylesheet" href="/css/footer.css" media="all">
 
 
@@ -132,13 +136,16 @@ Ausgabe 1 | Wir Magazin
 
     switch (localStorageValue) {
         case "dark":
+            document.documentElement.classList.add('dark');
             document.body.classList.add('dark');
             break;
         case "light":
             document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
             break;
         default:
             if (mediaQuery) {
+                document.documentElement.classList.add('dark');
                 document.body.classList.add('dark');
             }
             break;
@@ -179,7 +186,7 @@ Ausgabe 1 | Wir Magazin
             
             <a class="navbar-brand primary-font text-wrap" href="/">
                 
-                <img src="/fav.png" width="30" height="30"
+                <img src="fav.png" width="30" height="30"
                     class="d-inline-block align-top">
                 Wir Magazin
                 
@@ -250,11 +257,10 @@ Ausgabe 1 | Wir Magazin
                     
                     
 
-                    
                     <li class="nav-item navbar-text">
                         
                         <div class="text-center">
-                            <button id="theme-toggle">
+                            <button id="theme-toggle" type="button" aria-label="Toggle dark mode">
                                 <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                                 </svg>
@@ -293,7 +299,7 @@ Ausgabe 1 | Wir Magazin
                 zeta
                 <small>|</small>
               
-              7. Oct 2025
+              Oct 7, 2025
 
               
               <span id="readingTime">
@@ -326,26 +332,19 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
       <div class="col-sm-12 col-md-12 col-lg-3">
         <div id="stickySideBar" class="sticky-sidebar">
           
-          <aside class="toc">
-              <h5>
-                Table Of Contents
-              </h5>
-              <div class="toc-content">
-                <nav id="TableOfContents"></nav>
-              </div>
-          </aside>
-          
 
           
           <aside class="tags">
             <h5>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
               
-              <li class="list-inline-item"><a href="https://zine.plural.fyi/tags/magazin"
+              
+              <li class="list-inline-item"><a href="/tags/magazin"
                 target="_blank"
               >Magazin</a></li>
               
-              <li class="list-inline-item"><a href="https://zine.plural.fyi/tags/ausgabe1"
+              
+              <li class="list-inline-item"><a href="/tags/ausgabe1"
                 target="_blank"
               >Ausgabe1</a></li>
               
@@ -353,34 +352,6 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
           </aside>
           
 
-          
-          <aside class="social">
-            <h5>Social</h5>
-            <div class="social-content">
-              <ul class="list-inline">
-                <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fzine.plural.fyi%2fblog%2fausgabe1%2f">
-                    <i class="fab fa-linkedin"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://twitter.com/share?text=Ausgabe%201&url=https%3a%2f%2fzine.plural.fyi%2fblog%2fausgabe1%2f">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text=Ausgabe%201: https%3a%2f%2fzine.plural.fyi%2fblog%2fausgabe1%2f">
-                    <i class="fab fa-whatsapp"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:?subject=Ausgabe%201&amp;body=Check%20out%20this%20site https%3a%2f%2fzine.plural.fyi%2fblog%2fausgabe1%2f'>
-                    <i class="fa fa-envelope"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </aside>
           
         </div>
       </div>
@@ -439,6 +410,10 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
 
   </div><footer>
     
+
+
+  
+
  
  
 <div class="container py-3" id="recent-posts">
@@ -463,11 +438,11 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
                         <h5 class="card-title bg-transparent" title="Ausgabe 2">Ausgabe 2</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>Die zweite Ausgabe unseres zines. Yippee!</p>
+                        <p>Die zweite Ausgabe unseres zines. Yahoo!</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
-                    <span class="float-start">19. Apr 2026</span>
+                    <span class="float-start">April 19, 2026</span>
                     <a href="/blog/ausgabe2/" class="float-end btn btn-outline-info btn-sm">Read</a>
                 </div>
             </div>
@@ -491,7 +466,7 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
-                    <span class="float-start">28. Oct 2025</span>
+                    <span class="float-start">October 28, 2025</span>
                     <a href="/blog/ausgabe2-teaser/" class="float-end btn btn-outline-info btn-sm">Read</a>
                 </div>
             </div>
@@ -515,7 +490,7 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
-                    <span class="float-start">7. Oct 2025</span>
+                    <span class="float-start">October 7, 2025</span>
                     <a href="/blog/ausgabe1/" class="float-end btn btn-outline-info btn-sm">Read</a>
                 </div>
             </div>
@@ -539,8 +514,8 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
         <div class="col-md-4 text-center">
             
                 <div class="pb-2">
-                    <a href="https://zine.plural.fyi/" title="Wir Magazin">
-                        <img alt="Footer logo" src="/fav.png"
+                    <a href="http://localhost:1313/" title="Wir Magazin">
+                        <img alt="Footer logo" src="fav.png"
                             height="40px" width="40px">
                     </a>
                 </div>
@@ -563,10 +538,13 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
+        document.documentElement.classList.add('dark');
         document.body.classList.add('dark');
     } else if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
+        document.documentElement.classList.remove('dark');
     } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark');
         document.body.classList.add('dark');
     }
 
@@ -575,9 +553,11 @@ Hier beginnt unsere Reise mit vielfältigen Perspektiven und spannenden Geschich
     document.getElementById("theme-toggle").addEventListener("click", () => {
         if (document.body.className.includes("dark")) {
             document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
             localStorage.setItem("pref-theme", 'light');
         } else {
             document.body.classList.add('dark');
+            document.documentElement.classList.add('dark');
             localStorage.setItem("pref-theme", 'dark');
         }
     })

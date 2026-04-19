@@ -38,7 +38,7 @@ params:
   title: "Wir - ein plurales Magazin"
   description: Wir ist ein plurales Magazin von diversen Systemen.
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -121,15 +121,12 @@ params:
       url: "#"
       download: true
       newPage: false
-#   socialLinks:
-#      fontAwesomeIcons:
-#        - icon: fab fa-github
-#          url: https://example.com
-#        - icon: fab fa-x-twitter
-#          url: https://example.com
-#      customIcons:
-#        - icon: /fav.png
-#          url: "https://example.com"
+  socialShare:
+    enable: false
+    # The URL to share when the user clicks on the share button. By default, it shares the current page URL.
+    # url: "https://example.com"
+    # The text to share when the user clicks on the share button. By default, it shares the current page title.
+    # text: "Check out this site"
 
   # About
   about:
@@ -194,7 +191,8 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+
+    socialShare: false
     readTime:
       enable: true
       content: "min read"
