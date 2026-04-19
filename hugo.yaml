@@ -111,7 +111,7 @@ params:
     title: "Wir"
     subtitle: "Ein plurales Magazin"
     content: "Jetzt neu: Ausgabe 1 - Themen rund um Innenwelten, Außenwelten und mehr. Schau vorbei!"
-    image: /images/wir-magazin.png
+    image: /images/wir-magazin-2.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -155,6 +155,8 @@ params:
         - "moth"
         - "Jemar"
         - "Warlie"
+        - "Constellation"
+        - "Khaos"
         - "**Chefredaktion**: Hildie"
 
 
