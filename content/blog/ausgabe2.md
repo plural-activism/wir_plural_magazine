@@ -14,7 +14,7 @@ image: "/images/wir-magazin-2.png"
 
 Ausgabe 2 ist endlich da! Hier findet ihr die zweite Ausgabe unseres zines, gefüllt mit vielfältigen Perspektiven und spannenden Geschichten. Dieses mal mit Beiträgen von euch, unseren wunderbaren Leser*innen, die ihre Erfahrungen und Kreativität mit uns geteilt haben.
 
-**[Download Link](https://media.soycaf.net/books/Plural-Zine/zine_onlineversion.pdf)**
+**[Download Link](<https://media.soycaf.net/books/Plural-Zine/Zine%202%20Onlineversion.pdf>)**
 
 Das zine kann in begrenzter Zahl an folgenden Orten gefunden werden:
 
