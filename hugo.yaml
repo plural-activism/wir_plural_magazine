@@ -110,7 +110,7 @@ params:
     intro: ""
     title: "Wir"
     subtitle: "Ein plurales Magazin"
-    content: "Jetzt neu: Ausgabe 1 - Themen rund um Innenwelten, Außenwelten und mehr. Schau vorbei!"
+    content: "Jetzt neu: Ausgabe 2 - System-Discoveries, erkannte Probleme und erlernte Lösungen. Schau vorbei!"
     image: /images/wir-magazin-2.png
     bottomImage:
       enable: true
