@@ -1,6 +1,6 @@
 ---
 title: "Spenden?"
-date: 2026-04-19T00:00:00+02:00
+date: 2026-05-10T00:00:00+02:00
 draft: false
 author: "zeta"
 toc: false
