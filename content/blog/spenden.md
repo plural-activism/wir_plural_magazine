@@ -22,19 +22,16 @@ Falls ihr wirklich Geld überig habt, und dieses an einen guten Zweck spenen mö
 
 Mad & Disability Pride Bonn ist eine Initiative, die sich für die Rechte und Sichtbarkeit von Menschen mit psychischen Erkrankungen und Behinderungen einsetzt. Sie organisieren Veranstaltungen, Workshops und Aktionen, um das Bewusstsein für die Bedürfnisse und Erfahrungen von Menschen mit psychischen Erkrankungen zu fördern. Weitere Informationen findet ihr auf der Website von [Mad & Disability Pride Bonn](https://disability-pride-bonn.de/spenden-produkte).
 
-```
-Das könnt Ihr gerne über Paypal machen.
-An: lenacornelissen52@gmail.com
-Oder:
-Schreibt uns eine Mail, auf Instagram oder Facebook.
-Dann schicken wir euch auch Konto•Daten.
-```
+> Paypal an: <lenacornelissen52@gmail.com>
+
+> Oder schreibt uns eine Mail, auf Instagram oder Facebook.
+> Dann schicken wir euch auch KontoDaten.
 
 ## Bundesverband Psychiatrieerfahrener e.V
 
 Der BPE e.V. ist ein gemeinnütziger Verein, der sich für die Rechte und Interessen von Menschen mit Psychiatrieerfahrung einsetzt. Er bietet Beratung, Unterstützung und Vernetzung für Betroffene und ihre Angehörigen. Der Verein ist als gemeinnützig anerkannt und finanziert sich hauptsächlich durch Mitgliedsbeiträge, Spenden und Fördermittel. Weitere Informationen findet ihr auf der Website des [BPE e.V.](https://bpe-online.de/spendenkonto/).
 
-```
+```txt
 Konto 70798-01
 Bank für Sozialwirtschaft Köln (BLZ 37020500)
 IBAN: DE47 3702 0500 0007 0798 01
@@ -46,7 +43,6 @@ Postanschrift: Bank für Sozialwirtschaft, Postfach 100342, 50443 Köln
 
 Pluralkit ist ein Open-Source-Projekt, das sich auf die Unterstützung von pluralen und multiplen Systemen konzentriert. Es bietet eine Plattform für die Verwaltung von Identitäten, die Kommunikation innerhalb von Systemen und die Vernetzung mit anderen pluralen Gemeinschaften. Pluralkit finanziert sich durch Spenden und bietet verschiedene Möglichkeiten, das Projekt zu unterstützen. Weitere Informationen findet ihr auf der Website von [Pluralkit](https://pluralkit.me/posts/2025-01-14-funding-update/).
 
-```
-Einmal-Spenden: [buy me a coffe](https://buymeacoffee.com/pluralkit)
-Monatliche Spenden: [patreon](https://www.patreon.com/pluralkit)
-```
+> Einmal-Spenden: [buy me a coffe](https://buymeacoffee.com/pluralkit)
+
+> Monatliche Spenden: [patreon](https://www.patreon.com/pluralkit)
