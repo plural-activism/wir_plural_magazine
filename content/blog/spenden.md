@@ -14,9 +14,9 @@ image: "/images/spenden.png"
 
 Wir wurden in letzter Zeit öfter gefragt, ob wir Spenden annehmen. Die Antwort ist:
 
-Nein. Aus verschiedenen Gründen nehmen wir keine Spenden an. Wir möchten hier kurz erklären, warum das so ist. Zum einen wollen wir unsere Privatssphäre schützen, und es ist sehr schwierig, Spenden zu akzeptieren, ohne persönliche Informationen preiszugeben. Zum anderen haben wir derzeit keine Finanzierungsprobleme, da wir die Kosten für das Magazin selbst tragen können. Wir sind sehr dankbar für die Unterstützung und das Interesse an unserer Arbeit, aber wir möchten keine Spenden annehmen, um unsere Unabhängigkeit und Privatsphäre zu wahren. Wenn ihr uns unterstützen möchtet, teilt gerne unsere Inhalte oder sprecht mit anderen über unser Magazin!
+Nein. Aus verschiedenen Gründen nehmen wir keine Spenden an. Wir möchten hier kurz erklären, warum das so ist. Zum einen wollen wir unsere Privatssphäre schützen, und es ist sehr schwierig, Spenden zu akzeptieren, ohne persönliche Informationen preiszugeben. Zum anderen haben wir derzeit keine Finanzierungsprobleme, da wir die Kosten für das zine selbst tragen können. Wir sind sehr dankbar für die Unterstützung und das Interesse an unserer Arbeit, aber wir möchten keine Spenden annehmen, um unsere Unabhängigkeit und Privatsphäre zu wahren. Wenn ihr uns unterstützen möchtet, teilt gerne unsere Inhalte oder sprecht mit anderen über unser zine!
 
-Falls ihr wirklich Geld überig habt, und dieses an einen guten Zweck spenen möchtet, können wir euch die folgenden, von uns unabhängige Orgranisationen empfehlen:
+Falls ihr wirklich Geld überig habt, und dieses an einen guten Zweck spenen möchtet, können wir euch die folgenden, von uns unabhängigen Orgranisationen empfehlen:
 
 ## Mad & Disability Pride Bonn
 
