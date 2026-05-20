@@ -9,7 +9,8 @@ categories: ["Blog"]
 summary: "wir suchen Gastbeiträge für Ausgabe 3"
 image: "/images/prison.png"
 ---
-#Aufruf für Gastbeiträge - 3: Innere Welten und nicht-menschliche Existenzen
+
+# Aufruf für Gastbeiträge - 3: Innere Welten und nicht-menschliche Existenzen
 
 Ab jetzt könnt ihr Beiträge für das dritte Zine einreichen! Das Thema ist *"Innere Welten und nicht-menschliche Existenzen"*. Beiträge können alles sein, was wir auf Papier drucken können: Zeichnungen, Texte, Fotos, Collagen, Comicstrips...
 
