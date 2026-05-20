@@ -4,7 +4,7 @@ date: 2025-10-07T00:00:00+02:00
 draft: false
 author: "zeta"
 toc: false
-tags: ["Magazin", "Ausgabe1", "Les mich"]
+tags: ["Magazin", "Ausgabe1", "Lies mich"]
 categories: ["Blog"]
 summary: "Die erste Ausgabe unseres zines. Yippee!"
 image: "/images/wir-magazin.png"
