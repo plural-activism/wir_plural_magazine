@@ -4,7 +4,7 @@ date: 2026-04-19T00:00:00+02:00
 draft: false
 author: "zeta"
 toc: false
-tags: ["Magazin", "Ausgabe2"]
+tags: ["Magazin", "Ausgabe2", "les mich"]
 categories: ["Blog"]
 summary: "Die zweite Ausgabe unseres zines. Yahoo!"
 image: "/images/wir-magazin-2.png"
