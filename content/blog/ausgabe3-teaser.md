@@ -1,6 +1,6 @@
 ---
 title: "Ausgabe3-teaser"
-date: 2026-05-20T23:38:55+01:00
+date: 2026-05-19T23:38:55+01:00
 draft: false
 author: "Bunch"
 toc: false
