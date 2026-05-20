@@ -1,13 +1,13 @@
 ---
 title: "Ausgabe3-teaser"
-date: 2026-05-020T00:00:00+02:00
+date: 2026-05-20T23:38:55+01:00
 draft: false
 author: "Bunch"
 toc: false
 tags: ["Magazin", "Ausgabe3"]
 categories: ["Blog"]
 summary: "wir suchen Gastbeiträge für Ausgabe 3"
-image: "/images/wir-magazin.png"
+image: "/images/prison.png"
 ---
 #Aufruf für Gastbeiträge - 3: Innere Welten und nicht-menschliche Existenzen
 
