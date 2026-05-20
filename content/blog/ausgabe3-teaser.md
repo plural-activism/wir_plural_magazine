@@ -26,7 +26,7 @@ Wichtig:
 - wir behalten uns vor, Beiträge nicht zu veröffentlichen. Änderungen nehmen wir nicht vor
 - KI-generierte Inhalte nehmen wir nicht an
 
-Unsere E-Mail lautet: **[wir-magazin@mail.de](mailto:wir-magazin@mail.de)
+Unsere E-Mail lautet: **[wir-magazin@mail.de](mailto:wir-magazin@mail.de)**
 
 Das Thema ist bewusst offen gewählt. Manche Leute kommen aber besser mit spezifischen Fragen zurecht. In euren Beiträgen kann es also z.B. um die folgenden Themen gehen:
 
