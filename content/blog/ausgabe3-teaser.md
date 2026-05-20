@@ -26,15 +26,19 @@ Wichtig:
 - wir behalten uns vor, Beiträge nicht zu veröffentlichen. Änderungen nehmen wir nicht vor
 - KI-generierte Inhalte nehmen wir nicht an
 
-Unsere E-Mail lautet: **wir-magazin@mail.de**
+Unsere E-Mail lautet: **[wir-magazin@mail.de](mailto:wir-magazin@mail.de)
 
 Das Thema ist bewusst offen gewählt. Manche Leute kommen aber besser mit spezifischen Fragen zurecht. In euren Beiträgen kann es also z.B. um die folgenden Themen gehen:
+
+*Innere Welten*
 
 - Welche Orte sind euch besonders wichtig / welche Orte wolltet ihr schon immer teilen?
 - Wie unterscheidet sich eure innere Welt von der Außenwelt?
 - Gibt es etwas, was ihr im Innen tun könnt und im Außen vermisst?
 - Wie könnt ihr im Innen miteinander interagieren? Und mit der Welt?
 - Wie geht ihr mit Zugang oder Nicht-Zugang zu einer anderen Realität um?
+
+*Nicht-menschliche Existenzen*
 
 - Wie habt ihr festgestellt, nicht-menschlich zu sein?
 - Würdet ihr gerne etwas tun, was körperlich nicht geht?

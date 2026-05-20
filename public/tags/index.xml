@@ -2,80 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wir Magazin</title>
-    <link>https://zine.plural.fyi/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Wir Magazin</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0200</lastBuildDate>
-    <atom:link href="https://zine.plural.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 23:38:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Community</title>
-      <link>https://zine.plural.fyi/tags/community/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/community/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finanzierung</title>
-      <link>https://zine.plural.fyi/tags/finanzierung/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/finanzierung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magazin</title>
-      <link>https://zine.plural.fyi/tags/magazin/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/magazin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spenden</title>
-      <link>https://zine.plural.fyi/tags/spenden/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/spenden/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unterstützen</title>
-      <link>https://zine.plural.fyi/tags/unterst%C3%BCtzen/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/unterst%C3%BCtzen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ausgabe2</title>
-      <link>https://zine.plural.fyi/tags/ausgabe2/</link>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/ausgabe2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lies Mich</title>
-      <link>https://zine.plural.fyi/tags/lies-mich/</link>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/lies-mich/</guid>
+      <title>Ausgabe3</title>
+      <link>http://localhost:1313/tags/ausgabe3/</link>
+      <pubDate>Tue, 19 May 2026 23:38:55 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ausgabe3/</guid>
       <description></description>
     </item>
     <item>
       <title>Dein-Beitrag</title>
-      <link>https://zine.plural.fyi/tags/dein-beitrag/</link>
-      <pubDate>Tue, 28 Oct 2025 23:38:55 +0100</pubDate>
-      <guid>https://zine.plural.fyi/tags/dein-beitrag/</guid>
+      <link>http://localhost:1313/tags/dein-beitrag/</link>
+      <pubDate>Tue, 19 May 2026 23:38:55 +0100</pubDate>
+      <guid>http://localhost:1313/tags/dein-beitrag/</guid>
       <description></description>
     </item>
     <item>
       <title>Einsendungen</title>
-      <link>https://zine.plural.fyi/tags/einsendungen/</link>
-      <pubDate>Tue, 28 Oct 2025 23:38:55 +0100</pubDate>
-      <guid>https://zine.plural.fyi/tags/einsendungen/</guid>
+      <link>http://localhost:1313/tags/einsendungen/</link>
+      <pubDate>Tue, 19 May 2026 23:38:55 +0100</pubDate>
+      <guid>http://localhost:1313/tags/einsendungen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magazin</title>
+      <link>http://localhost:1313/tags/magazin/</link>
+      <pubDate>Tue, 19 May 2026 23:38:55 +0100</pubDate>
+      <guid>http://localhost:1313/tags/magazin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finanzierung</title>
+      <link>http://localhost:1313/tags/finanzierung/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/finanzierung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spenden</title>
+      <link>http://localhost:1313/tags/spenden/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/spenden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unterstützen</title>
+      <link>http://localhost:1313/tags/unterst%C3%BCtzen/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/unterst%C3%BCtzen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ausgabe2</title>
+      <link>http://localhost:1313/tags/ausgabe2/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ausgabe2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lies Mich</title>
+      <link>http://localhost:1313/tags/lies-mich/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/lies-mich/</guid>
       <description></description>
     </item>
     <item>
       <title>Ausgabe1</title>
-      <link>https://zine.plural.fyi/tags/ausgabe1/</link>
+      <link>http://localhost:1313/tags/ausgabe1/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/tags/ausgabe1/</guid>
+      <guid>http://localhost:1313/tags/ausgabe1/</guid>
       <description></description>
     </item>
   </channel>

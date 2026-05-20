@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magazin on Wir Magazin</title>
-    <link>https://zine.plural.fyi/tags/magazin/</link>
+    <link>http://localhost:1313/tags/magazin/</link>
     <description>Recent content in Magazin on Wir Magazin</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0200</lastBuildDate>
-    <atom:link href="https://zine.plural.fyi/tags/magazin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 23:38:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/magazin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ausgabe3-teaser</title>
+      <link>http://localhost:1313/blog/ausgabe3-teaser/</link>
+      <pubDate>Tue, 19 May 2026 23:38:55 +0100</pubDate>
+      <guid>http://localhost:1313/blog/ausgabe3-teaser/</guid>
+      <description>wir suchen Gastbeiträge für Ausgabe 3</description>
+    </item>
     <item>
       <title>Spenden?</title>
-      <link>https://zine.plural.fyi/blog/spenden/</link>
+      <link>http://localhost:1313/blog/spenden/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/blog/spenden/</guid>
+      <guid>http://localhost:1313/blog/spenden/</guid>
       <description>Für alle, die unsere Arbeit unterstützen möchten: Was geht, und was nicht.</description>
     </item>
     <item>
       <title>Ausgabe 2</title>
-      <link>https://zine.plural.fyi/blog/ausgabe2/</link>
+      <link>http://localhost:1313/blog/ausgabe2/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/blog/ausgabe2/</guid>
+      <guid>http://localhost:1313/blog/ausgabe2/</guid>
       <description>Die zweite Ausgabe unseres zines. Yahoo!</description>
     </item>
     <item>
       <title>Ausgabe 2 - Call to action</title>
-      <link>https://zine.plural.fyi/blog/ausgabe2-teaser/</link>
+      <link>http://localhost:1313/blog/ausgabe2-teaser/</link>
       <pubDate>Tue, 28 Oct 2025 23:38:55 +0100</pubDate>
-      <guid>https://zine.plural.fyi/blog/ausgabe2-teaser/</guid>
+      <guid>http://localhost:1313/blog/ausgabe2-teaser/</guid>
       <description>Wird es eine zweite Ausgabe geben?? 👀</description>
     </item>
     <item>
       <title>Ausgabe 1</title>
-      <link>https://zine.plural.fyi/blog/ausgabe1/</link>
+      <link>http://localhost:1313/blog/ausgabe1/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0200</pubDate>
-      <guid>https://zine.plural.fyi/blog/ausgabe1/</guid>
+      <guid>http://localhost:1313/blog/ausgabe1/</guid>
       <description>Die erste Ausgabe unseres zines. Yippee!</description>
     </item>
   </channel>
