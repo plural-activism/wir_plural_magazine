@@ -4,7 +4,7 @@ date: 2026-05-20T23:38:55+01:00
 draft: false
 author: "Bunch"
 toc: false
-tags: ["Magazin", "Ausgabe3"]
+tags: ["Magazin", "Ausgabe3", "Einsendungen", "Dein-Beitrag"]
 categories: ["Blog"]
 summary: "wir suchen Gastbeiträge für Ausgabe 3"
 image: "/images/prison.png"
