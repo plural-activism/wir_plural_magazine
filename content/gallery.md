@@ -28,9 +28,9 @@ galleryImages:
  - src: /images/gallery/zeta-memes.png
  - src: /images/gallery/600dpi.png
  - src: /images/gallery/Backcover_Bunch.png
- - src: /images/gallery/Baumwurzelstamm.png
+ - src: /images/gallery/Baumwurzelstamm.jpg
  - src: /images/gallery/bonus-amelia-1.png
- - src: /images/gallery/Bunch_Who_Am_I.jpg
+ - src: /images/gallery/Bunch_Who_am_I.jpg
  - src: /images/gallery/Bunchthis_prison.jpg
  - src: /images/gallery/DerSee.png
  - src: /images/gallery/hffh88.jpg
