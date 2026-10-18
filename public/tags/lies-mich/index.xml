@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lies Mich on Wir Magazin</title>
-    <link>http://localhost:1313/tags/lies-mich/</link>
+    <link>https://zine.plural.fyi/tags/lies-mich/</link>
     <description>Recent content in Lies Mich on Wir Magazin</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lies-mich/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://zine.plural.fyi/tags/lies-mich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ausgabe 3</title>
+      <link>https://zine.plural.fyi/ausgaben/ausgabe3/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0200</pubDate>
+      <guid>https://zine.plural.fyi/ausgaben/ausgabe3/</guid>
+      <description>Die dritte Ausgabe unseres zines. Yaaaaay!</description>
+    </item>
     <item>
       <title>Ausgabe 2</title>
-      <link>http://localhost:1313/blog/ausgabe2/</link>
+      <link>https://zine.plural.fyi/ausgaben/ausgabe2/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/ausgabe2/</guid>
+      <guid>https://zine.plural.fyi/ausgaben/ausgabe2/</guid>
       <description>Die zweite Ausgabe unseres zines. Yahoo!</description>
     </item>
     <item>
       <title>Ausgabe 1</title>
-      <link>http://localhost:1313/blog/ausgabe1/</link>
+      <link>https://zine.plural.fyi/ausgaben/ausgabe1/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/ausgabe1/</guid>
+      <guid>https://zine.plural.fyi/ausgaben/ausgabe1/</guid>
       <description>Die erste Ausgabe unseres zines. Yippee!</description>
     </item>
   </channel>

@@ -24,16 +24,21 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - identifier: ausgabben
       name: "Ausgaben"
-      title: "Bisherige Ausgaben"
-      url: /blog
+      title: "Ausgaben"
+      url: /ausgaben
       weight: 1
+    - identifier: blog
+      name: "Blog"
+      title: "News und Interessantes"
+      url: /blog
+      weight: 2
     - identifier: gallery
       name: Gallerie
       title: Kunst
       url: /gallery
-      weight: 2
+      weight: 3
 params:
   title: "Wir - ein plurales Magazin"
   description: Wir ist ein plurales Magazin von diversen Systemen.
@@ -110,8 +115,8 @@ params:
     intro: ""
     title: "Wir"
     subtitle: "Ein plurales Magazin"
-    content: "Jetzt neu: Ausgabe 2 - System-Discoveries, erkannte Probleme und erlernte Lösungen. Schau vorbei!"
-    image: /images/wir-magazin-2.png
+    content: "Jetzt neu: Ausgabe 3 - nicht-menschliche Existenzen und innere Welten. Schau vorbei!"
+    image: /images/wir-magazin-3.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -151,6 +156,7 @@ params:
         - "Leaves"
         - "moth"
         - "Jemar"
+        - "Navi"
         - "Warlie"
         - "Constellation"
         - "Khaos"
@@ -173,9 +179,9 @@ params:
 
   footer:
     recentPosts:
-      path: "blog"
+      path: "ausgaben"
       count: 3
-      title: "Aktuelle Posts"
+      title: "Unsere Ausgaben"
       enable: true
       disableFeaturedImage: false
 #    socialNetworks:

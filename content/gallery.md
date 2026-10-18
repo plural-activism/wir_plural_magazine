@@ -26,6 +26,17 @@ galleryImages:
  - src: /images/gallery/Submission-Oaks-2.jpeg
  - src: /images/gallery/thingsWeLearned.png
  - src: /images/gallery/zeta-memes.png
+ - src: /images/gallery/600dpi.png
+ - src: /images/gallery/Backcover_Bunch.png
+ - src: /images/gallery/Baumwurzelstamm.png
+ - src: /images/gallery/bonus-amelia-1.png
+ - src: /images/gallery/Bunch_Who_Am_I.jpg
+ - src: /images/gallery/Bunchthis_prison.jpg
+ - src: /images/gallery/DerSee.png
+ - src: /images/gallery/hffh88.jpg
+ - src: /images/gallery/JA-contribution.png
+ - src: /images/gallery/Miribackground_bunch.png
+ - src: /images/gallery/Navi_Without_Text.jpg
 viewer : true
 viewerOptions : {
     title: false
