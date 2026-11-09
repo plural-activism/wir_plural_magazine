@@ -1,5 +1,5 @@
 ---
-title: "Ausgabe3-teaser"
+title: "Ausgabe3- Call to action"
 date: 2026-05-19T23:38:55+01:00
 draft: false
 author: "Bunch"

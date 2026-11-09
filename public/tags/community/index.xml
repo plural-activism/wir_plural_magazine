@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Community on Wir Magazin</title>
-    <link>http://localhost:1313/tags/community/</link>
-    <description>Recent content in Community on Wir Magazin</description>
-    <generator>Hugo</generator>
-    <language>de-de</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spenden?</title>
-      <link>http://localhost:1313/blog/spenden/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/spenden/</guid>
-      <description>Für alle, die unsere Arbeit unterstützen möchten: Was geht, und was nicht.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Community on Wir Magazin</title>
+		<link>https://zine.plural.fyi/tags/community/</link>
+		<description>Recent content in Community on Wir Magazin</description>
+		<generator>Hugo</generator>
+		<language>de-de</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://zine.plural.fyi/tags/community/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mitmachen?</title>
+				<link>https://zine.plural.fyi/contribution/</link>
+				<pubDate>Mon, 09 Nov 2026 00:00:00 +0200</pubDate>
+				<guid>https://zine.plural.fyi/contribution/</guid>
+				<description>&lt;p&gt;Du/ihr möchtet einen Gastbeitrag einreichen? Sehr gerne! Hier findet ihr alle Infos dazu.&lt;/p&gt;&#xA;&lt;p&gt;Beiträge können alles sein, was wir auf Papier drucken können: Zeichnungen, Texte, Fotos, Collagen, Comicstrips, …&lt;/p&gt;&#xA;&lt;p&gt;Alle pluralen/multiplen Erfahrungen sind willkommen. Bitte keine detaillierten Traumabeschreibungen oder andere stark triggernde Inhalte (im Zweifelsfall fragt uns gerne).&lt;/p&gt;&#xA;&lt;p&gt;Das wichtige Kleingedruckte:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Einsendeschluss ist jeweils der 15. März (Frühlingsausgabe) / 15. September (Herbstausgabe)&lt;/li&gt;&#xA;&lt;li&gt;Die September Ausgaben haben immer ein Thema, das wir vorher bekannt geben. Die März Ausgaben sind themenoffen.&lt;/li&gt;&#xA;&lt;li&gt;Format: DIN A5 (Einzelseite) / DIN A4 (Doppelseite) mit einem schmalen Rand. Auflösung mindestens 300dpi, gerne 600dpi&lt;/li&gt;&#xA;&lt;li&gt;Schickt uns so viele Seiten, wie ihr wollt!&lt;/li&gt;&#xA;&lt;li&gt;Sagt uns, unter welchem Namen ihr genannt werden wollt (anonym ist auch okay)&lt;/li&gt;&#xA;&lt;li&gt;Alle Urheber:innen müssen damit einverstanden sein, dass wir den Beitrag online und in Druckform unter einer &lt;em&gt;&lt;a href=&#34;https://creativecommons.org/share-your-work/use-remix/cc-licenses/#by-nc&#34;&gt;Creative Commons BY NC Lizenz&lt;/a&gt;&lt;/em&gt; veröffentlichen&lt;/li&gt;&#xA;&lt;li&gt;Wir behalten uns vor, Beiträge nicht zu veröffentlichen (oder erst in einem späteren Zine). Änderungen nehmen wir nicht vor!&lt;/li&gt;&#xA;&lt;li&gt;Alle Beitragenden können Wünsche für das Cover äußern, wir können sie aber nicht garantieren.&lt;/li&gt;&#xA;&lt;li&gt;Falls kleine Änderungen nötig sind oder wir Rückfragen haben (z.B. Format, Schriftart), kontaktieren wir euch&lt;/li&gt;&#xA;&lt;li&gt;KI-generierte Inhalte nehmen wir nicht an&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Schickt die Beiträge an:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spenden?</title>
+				<link>https://zine.plural.fyi/blog/spenden/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0200</pubDate>
+				<guid>https://zine.plural.fyi/blog/spenden/</guid>
+				<description>Für alle, die unsere Arbeit unterstützen möchten: Was geht, und was nicht.</description>
+			</item>
+	</channel>
 </rss>
