@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News on Wir Magazin</title>
+		<link>https://zine.plural.fyi/tags/news/</link>
+		<description>Recent content in News on Wir Magazin</description>
+		<generator>Hugo</generator>
+		<language>de-de</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://zine.plural.fyi/tags/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>RSS-Feed und Newsletter</title>
+				<link>https://zine.plural.fyi/blog/rss-newsletter/</link>
+				<pubDate>Fri, 19 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://zine.plural.fyi/blog/rss-newsletter/</guid>
+				<description>Für alle, die auf dem Laufenden bleiben wollen: Es gibt jetzt einen RSS-Feed und einen Newsletter! Hier erfahrt ihr, was in der Redaktion aktuell passiert.</description>
+			</item>
+	</channel>
+</rss>

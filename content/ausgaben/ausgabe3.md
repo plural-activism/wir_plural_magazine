@@ -23,5 +23,6 @@ Das zine kann demnächst in begrenzter Zahl an folgenden Orten gefunden werden:
     Black Pigeon, Dortmund
     GAP, Bonn
     rubicon, Köln
+    Rainbow Zentrum, Aachen
 
 P.S. Inspiriert? Wir nehmen bereits Gastbeiträge für Ausgabe 4 an! 

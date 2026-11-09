@@ -1,13 +1,13 @@
 ---
 title: "RSS-Feed und Newsletter"
-date: 2026-04-19T00:00:00+02:00
-draft: true
+date: 2026-06-19T00:00:00+02:00
+draft: false
 author: "zeta"
 toc: false
 tags: ["Magazin", "rss", "newsletter", "news", "service"]
 categories: ["Blog"]
 summary: "Für alle, die auf dem Laufenden bleiben wollen: Es gibt jetzt einen RSS-Feed und einen Newsletter! Hier erfahrt ihr, was in der Redaktion aktuell passiert."
-image: "/images/newsletter.png"
+image: "/images/pot.png"
 ---
 
 # RSS-Feed und Newsletter

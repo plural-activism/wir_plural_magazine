@@ -33,12 +33,17 @@ Menus:
       name: "Blog"
       title: "News und Interessantes"
       url: /blog
-      weight: 2
+      weight: 3
     - identifier: gallery
       name: Gallerie
       title: Kunst
       url: /gallery
-      weight: 3
+      weight: 4
+    - identifier: contribution
+      name: Mitmachen
+      title: Mitmachen
+      url: /contribution
+      weight: 2
 params:
   title: "Wir - ein plurales Magazin"
   description: Wir ist ein plurales Magazin von diversen Systemen.
