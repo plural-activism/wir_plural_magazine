@@ -30,7 +30,7 @@ Menus:
       url: /ausgaben
       weight: 1
     - identifier: blog
-      name: "Blog"
+      name: "News"
       title: "News und Interessantes"
       url: /blog
       weight: 3
